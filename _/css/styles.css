@@ -1,0 +1,8 @@
+/* color variables */
+/* font variables */
+/* line 4, ../components/sass/styles.scss */
+body {
+  background-color: #CDCDCD;
+  color: #0F5264;
+  font: 14px Arial, Helvetica, sans-serif;
+}
